@@ -102,6 +102,9 @@ main {
   grid-area: slider__info-title;
   padding-right: 50px;
 }
+.slider__info-title>h2 {
+  margin-top: 0;
+}
 
 .slider__image {
   grid-area: slider__image;
